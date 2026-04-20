@@ -11,6 +11,7 @@
 
 </div>
 
+![Cat](../cat-dog-image/public/cat.png) ![Dog](../cat-dog-image/public/dog.png)
 ---
 
 Uma aplicação web simples e divertida que exibe imagens aleatórias de cães e gatos a cada clique.
