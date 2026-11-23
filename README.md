@@ -1,4 +1,4 @@
-# 🐾 Dog & Cat Image Generator
+# Dog & Cat Image Generator
 
 <div align="center">
 
@@ -11,18 +11,22 @@
 
 </div>
 
-![Cat](../cat-dog-image/public/cat.png) ![Dog](../cat-dog-image/public/dog.png)
+<p align="center">
+  <img src="public/cat.png" alt="Cat" width="300">
+  <img src="public/dog.png" alt="Dog" width="300">
+</p>
+
 ---
 
 Uma aplicação web simples e divertida que exibe imagens aleatórias de cães e gatos a cada clique.
 
 As imagens são carregadas dinamicamente via APIs públicas:
-- 🐶 **Cães** — [Dog CEO API](https://dog.ceo/dog-api/)
-- 🐱 **Gatos** — [The Cat API](https://thecatapi.com/)
+- **Cães** — [Dog CEO API](https://dog.ceo/dog-api/)
+- **Gatos** — [The Cat API](https://thecatapi.com/)
 
 
 
-## 🛠️ Pré-requisitos
+## Pré-requisitos
 
 Antes de começar, você precisará ter instalado em sua máquina:
 
@@ -31,7 +35,7 @@ Antes de começar, você precisará ter instalado em sua máquina:
 
 ---
 
-## 📦 Instalação e Uso
+## Instalação e Uso
 
 ### 1. Clone o repositório
 
